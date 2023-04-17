@@ -1,14 +1,14 @@
-
+# Data Pre-Processing
 <ul>
-    <li><a href="#identify_handle_missing_values">Identify and handle missing values</a>
+    <li>Identify and handle missing values
         <ul>
-            <li><a href="#identify_missing_values">Identify missing values</a></li>
-            <li><a href="#deal_missing_values">Deal with missing values</a></li>
-            <li><a href="#correct_data_format">Correct data format</a></li>
+            <li>Identify missing values</li>
+            <li>Deal with missing values</li>
+            <li>Correct data format</li>
         </ul>
     </li>
-    <li><a href="#data_standardization">Data standardization</a></li>
-    <li><a href="#data_normalization">Data normalization (centering/scaling)</a></li>
-    <li><a href="#binning">Binning</a></li>
-    <li><a href="#indicator">Indicator variable</a></li>
+    <li>Data standardization</li>
+    <li>Data normalization (centering/scaling)</li>
+    <li>Binning</li>
+    <li>Indicator variable</li>
 </ul>
