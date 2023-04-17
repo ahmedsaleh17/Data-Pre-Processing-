@@ -9,6 +9,6 @@
     </li>
     <li>Data standardization</li>
     <li>Data normalization (centering/scaling)</li>
-    <li>Binning</li>
+    <li>Binning (Segments)</li>
     <li>Indicator variable</li>
 </ul>
