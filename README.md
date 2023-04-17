@@ -1,6 +1,4 @@
-<h2>Table of Contents</h2>
 
-<div class="alert alert-block alert-info" style="margin-top: 20px">
 <ul>
     <li><a href="#identify_handle_missing_values">Identify and handle missing values</a>
         <ul>
@@ -14,7 +12,3 @@
     <li><a href="#binning">Binning</a></li>
     <li><a href="#indicator">Indicator variable</a></li>
 </ul>
-    
-</div>
- 
-<hr>
